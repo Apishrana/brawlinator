@@ -2487,9 +2487,59 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   brawlers:
   - {fileID: 11400000, guid: 4bfe06049ba71486b9f5c4c60fb4bcc9, type: 2}
+  - {fileID: 11400000, guid: 7149cc24480fc4c679815949eeb0eeac, type: 2}
+  - {fileID: 11400000, guid: 3683dad6eb4b749db9361e83ab3d0354, type: 2}
   - {fileID: 11400000, guid: 4bfe06049ba71486b9f5c4c60fb4bcc9, type: 2}
-  - {fileID: 11400000, guid: 4bfe06049ba71486b9f5c4c60fb4bcc9, type: 2}
-  questions: []
+  - {fileID: 11400000, guid: 7149cc24480fc4c679815949eeb0eeac, type: 2}
+  - {fileID: 11400000, guid: 3683dad6eb4b749db9361e83ab3d0354, type: 2}
+  - {fileID: 11400000, guid: 6de36ae9775874b0a8f4951128123d99, type: 2}
+  - {fileID: 11400000, guid: 53677348bbe51410a9a974050c8a7fe7, type: 2}
+  - {fileID: 11400000, guid: bfc992fd6d2094a6ba86cccf7b66d2d1, type: 2}
+  - {fileID: 11400000, guid: 80297dc14ef4a48c6a01a6d7bbc5f44b, type: 2}
+  - {fileID: 11400000, guid: 0db62d75059894acea4b26346bd3eca0, type: 2}
+  - {fileID: 11400000, guid: 8b1da0677d3a5475c9b666d0ad28e456, type: 2}
+  - {fileID: 11400000, guid: 8c1397be7d1b3400295bf949dac93d67, type: 2}
+  - {fileID: 11400000, guid: 3b3d4dae48cc1412dbbad75fdbcc09b6, type: 2}
+  - {fileID: 11400000, guid: b5c45cf2a1fde499c86005dde3600586, type: 2}
+  - {fileID: 11400000, guid: 3fbf9a150f8ad410c96141ab5568dbdc, type: 2}
+  - {fileID: 11400000, guid: 317cabfe1de6147c6adc5172a8be9a00, type: 2}
+  - {fileID: 11400000, guid: 9c9c73ea0957744728c93659806a7355, type: 2}
+  - {fileID: 11400000, guid: 182922903a7d94056be27f4912fc4d22, type: 2}
+  questions:
+  - {fileID: 11400000, guid: ccfb305a889284c7eb7828306a3a97ac, type: 2}
+  - {fileID: 11400000, guid: e6b2f09c5e9e84bff9e09ca4a016cdcf, type: 2}
+  - {fileID: 11400000, guid: 8c30755bd9f8c4904a20c1ac36266535, type: 2}
+  - {fileID: 11400000, guid: 774992dd178b64e44bacdcc4789900b6, type: 2}
+  - {fileID: 11400000, guid: 0657432d0bf9e4af4bc316cc98b87938, type: 2}
+  - {fileID: 11400000, guid: 355600d9f2f4447d196a76b93c1ad833, type: 2}
+  - {fileID: 11400000, guid: 2432529019f464bc8bdf37c99e1a9ad6, type: 2}
+  - {fileID: 11400000, guid: d9b296f017426431da7fc59991609a54, type: 2}
+  - {fileID: 11400000, guid: 16fe818a23e894d859a2b4a164a2801a, type: 2}
+  - {fileID: 11400000, guid: 71f7369700f31471491a6010546d782d, type: 2}
+  - {fileID: 11400000, guid: 74c50278eba904b178d13d85525fbfab, type: 2}
+  - {fileID: 11400000, guid: d35a37f67142b4a95a5cf49135170669, type: 2}
+  - {fileID: 11400000, guid: c546ede72383f4b9faf94ad4989b1ebd, type: 2}
+  - {fileID: 11400000, guid: 4083042f7ea054fdf8ae85be3cb39e35, type: 2}
+  - {fileID: 11400000, guid: 121cf0b3846924afc83dafd6d650e61d, type: 2}
+  - {fileID: 11400000, guid: 21a04018d0482461d977bb55fc9f8213, type: 2}
+  - {fileID: 11400000, guid: f8128de45a1d547f1ad6bae5be605f2b, type: 2}
+  - {fileID: 11400000, guid: bd3a3daad3b464f35a48e19cb0989f05, type: 2}
+  - {fileID: 11400000, guid: 15ab2a0b88cc649a9921198e75b5d31b, type: 2}
+  - {fileID: 11400000, guid: 38b6c9332b60f4a4898d8dc4ef9a7224, type: 2}
+  - {fileID: 11400000, guid: dedd9cb187b2244edb4966c18a5871ed, type: 2}
+  - {fileID: 11400000, guid: 8ca102d3bd3f7466bb9891e82457d1fc, type: 2}
+  - {fileID: 11400000, guid: 4995d9155968442958ae51a1f33f688c, type: 2}
+  - {fileID: 11400000, guid: 8eb1bc368a1aa43dfaddaa0cb537e456, type: 2}
+  - {fileID: 11400000, guid: cb6ad9bd3740b439ba9cd4a2dfc2f91b, type: 2}
+  - {fileID: 11400000, guid: 6c561842767034a0ba250168219cf58b, type: 2}
+  - {fileID: 11400000, guid: 8ed7a05d50fcc4952a8a7ff817d1dd9a, type: 2}
+  - {fileID: 11400000, guid: a2a18fea8c182423999595ba829ece4b, type: 2}
+  - {fileID: 11400000, guid: 6923d13616902408d9f7f600346b9a44, type: 2}
+  - {fileID: 11400000, guid: ec56b24ef07b548acbad8d8097a2bcb2, type: 2}
+  - {fileID: 11400000, guid: 4da360a212f574361b2fcf7d1f2fc1ad, type: 2}
+  - {fileID: 11400000, guid: 017de732df3094fc3b5d224c3e8f303d, type: 2}
+  - {fileID: 11400000, guid: bb9ad6ee82a8543e98bee04fa08e005a, type: 2}
+  - {fileID: 11400000, guid: c26d1773fc1b64a6f91d2e32f37c8001, type: 2}
 --- !u!1 &1767678320
 GameObject:
   m_ObjectHideFlags: 0

@@ -7,12 +7,10 @@ public class GameManager : MonoBehaviour
     private List<BrawlerData> brawlers;
     [SerializeField]
     private List<QuestionData> questions;
-    private List<BrawlerData> candidates;
 
-    private int questionIndex;
     void Start()
     {
-        
+
 
     }
 
