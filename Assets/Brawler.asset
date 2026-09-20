@@ -13,5 +13,21 @@ MonoBehaviour:
   m_Name: Brawler
   m_EditorClassIdentifier: Assembly-CSharp::BrawlerData
   Name: 
-  icon: {fileID: 0}
-  gender: 0
+  Icon: {fileID: 0}
+  Gender: 0
+  Rarity: 0
+  Class: 0
+  Speed: 0
+  Robot: 0
+  Jump: 0
+  DestroyWalls: 0
+  DestroyBush: 0
+  Stun: 0
+  Slow: 0
+  Family: 0
+  BypassWall: 0
+  Splash: 0
+  Burn: 0
+  Poison: 0
+  Invisibility: 0
+  Buffies: 0
