@@ -5,5 +5,5 @@ using UnityEngine;
 public class QuestionData : ScriptableObject
 {
     public string questionText;
-    public string questionType;
+    public string questionId;
 }
